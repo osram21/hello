@@ -4,5 +4,6 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		System.out.println("World's end DanceHall");
 		System.out.println("Earth's End DanceHall");
+		System.out.println("Hotfix add line");
 	}
 }
